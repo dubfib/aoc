@@ -1,2 +1,2 @@
 # aoc
-Advent of Code
+poorly made advent of code solutions
